@@ -14,9 +14,13 @@ function Home() {
             for small businesses. I am always expanding my toolkit and have
             gnact for problem solving.
           </p>
-          <LinkedIn />
+          <a href="https://github.com/Jstevenson02">
+            <GitHub />
+          </a>
+          <a href="https://www.linkedin.com/in/jacob-stevenson-406098162/">
+            <LinkedIn />
+          </a>
           <Email />
-          <GitHub />
         </div>
       </div>
       <div className="skills">
