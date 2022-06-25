@@ -29,20 +29,20 @@ function Home() {
           <li className="item">
             <h2>Front-End</h2>
             <span>
-              CSS, HTML, MaterialUI, Native, NPM, React ReactJS, Redux,
-              StyledComponents Yarn,
+              CSS, HTML, MaterialUI, Native, NPM, React, ReactJS, Redux,
+              StyledComponents Yarn
             </span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              .NET, ApolloServer, GraphQL, Java MongoDB, MySQL, NodeJS, Postman,
+              .NET, ApolloServer, GraphQL, MongoDB, MySQL, NodeJS, Postman,
               Springboot
             </span>
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span>C#, Java JavaScript, Python, TypeScript,</span>
+            <span>C#, Java, JavaScript, Python, TypeScript</span>
           </li>
         </ol>
       </div>
