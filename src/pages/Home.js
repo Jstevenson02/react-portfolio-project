@@ -9,10 +9,10 @@ function Home() {
         <h2>Hi, my name is Jacob.</h2>
         <div className="prompt">
           <p>
-            I am a self-teaching fulltime student currently pursuing my
+            I am a self-teaching, fulltime student currently pursuing my
             Associates of Applied Science. I run a side gig creating websites
             for small businesses. I am always expanding my toolkit and have
-            gnact for problem solving.
+            knack for problem solving.
           </p>
           <a href="https://github.com/Jstevenson02">
             <GitHub />
