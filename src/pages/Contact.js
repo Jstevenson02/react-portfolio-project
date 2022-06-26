@@ -41,7 +41,7 @@ function Contact() {
       <div className="skills">
         <div className="contact-form">
           <form ref={form} onSubmit={sendEmail}>
-            <ul>
+            <ul className="form-list">
               <li className="half">
                 <input placeholder="Name" type="text" name="name" required />
               </li>

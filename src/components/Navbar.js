@@ -18,17 +18,14 @@ function Navbar() {
           onClick={() => {
             setExpandNavbar((prev) => !prev);
           }}>
-          {' '}
           <ReorderIcon />
         </button>
       </div>
       <div className="links">
-        <b>
-          <Link to="/">Home</Link>
-          <Link to="/experience">Experience</Link>
-          <Link to="/projects">Projects</Link>
-          <Link to="/contact">Contact</Link>
-        </b>
+        <Link to="/">Home</Link>
+        <Link to="/experience">Experience</Link>
+        <Link to="/projects">Projects</Link>
+        <Link to="/contact">Contact</Link>
       </div>
     </div>
   );

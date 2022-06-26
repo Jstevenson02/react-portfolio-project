@@ -5,6 +5,10 @@
   color: #3e497a;
 }
 
+.form-list {
+  list-style-type: none;
+}
+
 .about {
   width: 100%;
   height: calc(100vh - 100px);
