@@ -11,6 +11,23 @@ function Experience() {
   return (
     <div className="experience">
       <VerticalTimeline lineColor="#3e497a">
+      <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="August 2010 - Present"
+          iconStyle={{
+            background: '#3e497a',
+            color: '#fff',
+          }}
+          icon={<SchoolIcon />}>
+          <h3 className="vertical-timeline-element-title">
+            Self Teaching
+          </h3>
+          <p>
+            From writing Scratch programs with the help of my dad, to pursuing
+            certifications through FreeCodeCamp and Udemy. With the advancement rate of technology
+            I will never stop learning. 
+          </p>
+        </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="August 2016 - May 2020"
