@@ -3,7 +3,6 @@ import { LinkedIn, Email, GitHub } from '@material-ui/icons';
 import { Parallax, ParallaxLayer } from '@react-spring/parallax';
 import '../styles/Home.css';
 import gradient from '../assets/gradient4.jpg';
-import space from '../assets/space2.jpg';
 
 
 function Home() {
