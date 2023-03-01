@@ -95,6 +95,23 @@ function Experience() {
                     }}
                     icon={<SchoolIcon />}>
                     <h3 className="vertical-timeline-element-title">
+                        University of Louisiana at Lafayette
+                    </h3>
+                    <p>
+                        Pursing an Associates degree in Applied Sciences,
+                        through the Application Software Development Program at
+                        SLCC.
+                    </p>
+                </VerticalTimelineElement>
+                <VerticalTimelineElement
+                    className="vertical-timeline-element--education"
+                    date="August 2021 - May 2023"
+                    iconStyle={{
+                        background: '#3e497a',
+                        color: '#fff',
+                    }}
+                    icon={<SchoolIcon />}>
+                    <h3 className="vertical-timeline-element-title">
                         South Louisiana Community College
                     </h3>
                     <p>

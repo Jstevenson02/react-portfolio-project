@@ -17,7 +17,6 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #21325e;
     color: #f0f0f0;
 }
 
@@ -32,6 +31,7 @@
     width: 40%;
     font-size: 30px;
 }
+
 .prompt svg {
     font-size: 60px;
     margin: 5px;
@@ -77,6 +77,7 @@ textarea {
     .skills {
         text-align: center;
     }
+
     .list {
         padding: 0;
     }
